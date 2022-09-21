@@ -1,1 +1,3 @@
-print("hello git_hub")
+x=5
+print("hello git_hub ")
+print(x)
