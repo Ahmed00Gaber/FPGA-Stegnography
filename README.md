@@ -1,4 +1,4 @@
-# FPGA-Stegnography
+# New Security Approach for LSB Steganography using FPGA Implementation Based on Visual Sensitivity to Colors and Edges
 
 ## Block Memory Generator: 
 We used block memory generator from IP catalog to store our
